@@ -41,4 +41,4 @@ document.getElementById("name6").style.fontSize = "60px";
 // Find the div with the id of "container" and change the background color to "green"
 // Place your code below
 
-document.getElementById("container").style.background = "green";
+document.getElementById("container").style.backgroundColor = "green";
